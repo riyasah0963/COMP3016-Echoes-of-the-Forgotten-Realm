@@ -173,21 +173,13 @@ y
 See `docs/UML_Diagram.md` for complete class relationships and architecture overview.
 
 ## Demo Video
-[YouTube Link - (To be added before submission)]
+[YouTube Link - (To be added)]
 
 ## Assignment Information
 - **Module**: COMP3016 - Immersive Game Technologies
 - **Assignment**: CW1 - Text-Based Game (30%)
 - **Student**: Riya Shah
 - **Submission Date**: November 4, 2025
-
-## Academic Requirements Met
-- ✅ Modern C++ with object-oriented programming
-- ✅ File handling architecture (data loading system)
-- ✅ Robust error handling and input validation
-- ✅ Comprehensive documentation and UML diagrams
-- ✅ Professional code structure and design patterns
-- ✅ Working executable with all features demonstrated
 
 ## License
 Educational Project - University of Plymouth - COMP3016 Module
