@@ -78,19 +78,19 @@ docs/
 ```
 
 ## Complete command for Terminal
-# 1. Game Introduction
+1. Game Introduction
 ./echoes_game
 DemoPlayer
 help
 
-# 2. Basic Mechanics  
+2. Basic Mechanics  
 look
 take rusty sword
 inventory
 status
 memory
 
-# 3. Exploration
+3. Exploration
 move north
 look
 move east
@@ -98,14 +98,14 @@ look
 take ancient key
 memory
 
-# 4. Key Usage & Progression
+4. Key Usage & Progression
 use ancient key
 move north
 look
 take legendary blade
 inventory
 
-# 5. Combat Demo
+5. Combat Demo
 move south
 move west
 move north
@@ -113,12 +113,12 @@ attack
 1
 1
 
-# 6. Error Handling
+6. Error Handling
 invalidcommand
 move nowhere
 take nothing
 
-# 7. Final Status
+7. Final Status
 memory
 inventory
 status
