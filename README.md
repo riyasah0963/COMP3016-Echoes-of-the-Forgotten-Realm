@@ -99,7 +99,7 @@ Use intuitive text commands to interact with the game world:
 └── echoes_game            # Compiled executable
 ```
 
-## Complete Gameplay Demo Sequence
+## Complete Gameplay Sequence
 
 ### **1. Game Introduction & Setup**
 ```bash
