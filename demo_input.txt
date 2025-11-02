@@ -1,0 +1,21 @@
+Hero
+help
+look
+inventory
+move north
+look
+take iron dagger
+inventory
+move east
+look
+take ancient key
+memory
+use ancient key
+look
+move north
+take legendary blade
+inventory
+attack
+1
+quit
+y
