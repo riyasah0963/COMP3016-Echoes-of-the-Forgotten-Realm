@@ -173,7 +173,7 @@ y
 See `docs/UML_Diagram.md` for complete class relationships and architecture overview.
 
 ## Demo Video
-[YouTube Link - (To be added)]
+[YouTube Link -https://youtu.be/Tibweq11Fgw?si=sh3DaGWRq1CqVZhf ]
 
 ## Assignment Information
 - **Module**: COMP3016 - Immersive Game Technologies
